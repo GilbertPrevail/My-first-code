@@ -1,2 +1,12 @@
-# My-first-code
-My first code
+`html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My First Code</title>
+  </head>
+  <body>
+    <h1>Hello World!</h1>
+    <p>This is my first HTML page.</p>
+  </body>
+</html>
+`
